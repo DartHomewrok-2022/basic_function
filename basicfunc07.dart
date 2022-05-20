@@ -5,10 +5,9 @@
 // Return the value a.
 
 void main() {
-  print(codeschool());
+  print(codeschool(5));
 }
 
-int codeschool() {
-  int a = 5;
+int codeschool(a) {
   return a;
 }

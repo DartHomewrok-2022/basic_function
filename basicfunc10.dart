@@ -5,11 +5,10 @@
 // decrease the value of a to one and return.
 
 void main() {
-  int s = codeschool();
+  int s = codeschool(2);
   print(s);
 }
 
-int codeschool() {
-  int a = 5;
+int codeschool(a) {
   return a - (a * 2);
 }
