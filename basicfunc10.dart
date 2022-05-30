@@ -2,7 +2,7 @@
 
 // Create function arguments a.
 
-// decrease the value of a to one and return.
+// do this a-(a*2) and return.
 
 void main() {
   int s = codeschool(2);
